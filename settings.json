@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Superman",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "stairssee.minefort.com",
-    "port": 19132,
+    "ip": "Twistmc.aternos.me",
+    "port": 21762,
     "version": "1.21.1"
   },
   "position": {
